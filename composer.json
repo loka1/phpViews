@@ -1,0 +1,10 @@
+{
+    "name": "lokas/php-views",
+    "authors": [
+        {
+            "name": "lokas",
+            "email": "lokashafeek7755@gmail.com"
+        }
+    ],
+    "require": {}
+}
